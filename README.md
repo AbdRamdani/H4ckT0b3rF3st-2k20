@@ -9,8 +9,8 @@
 * [What Can You Earn?](#What-Can-You-Earn)
 * [How To Make Your First Contribution?](#How-To-Make-Your-First-Contribution)
 * [How To Successfully Complete The Hacktoberfest Challenge?](#How-To-Successfully-Complete-The-Hacktoberfest-Challenge)
-* [Getting Started - Basic](#Getting-Started:-Basic)
-* [Getting Started - Advanced](#Getting-Started:-Advanced)
+* [Getting Started - Basic](#Getting-Started-Basic)
+* [Getting Started - Advanced](#Getting-Started-Advanced)
 * [Tasks and Challenges](#Tasks-and-Challenges)
 
 [![GitHub contributors](https://img.shields.io/github/contributors/openmindsclub/H4ckT0b3rF3st-2k20)](https://GitHub.com/Naereen/StrapDown.js/graphs/contributors/)
@@ -60,7 +60,7 @@ To claim the aforementioned prizes, the winners must visit us at our local in US
 ## How To Successfully Complete The Hacktoberfest Challenge
   To qualify for the official limited edition Hacktoberfest shirt, you must register and then make four pull requests (PRs) between October 1-31 (in any time zone. PRs can be made to any public repo on [GitHub](https://github.com/). If a maintainer reports your pull request as invalid or as poor behavior opposing the project’s [code of conduct](https://docs.google.com/document/d/1gFKOhyUqMZzrZcbq8A_TpO5x9J9HK6agv70awCH8pyI/edit), you will become ineligible to participate.
 
-## Getting Started: Basic
+## Getting Started Basic
 1. Fork this Repo, just click on the Fork button in the top right corner of the page, it'll create an exact copy of this repo in your account.
 2. Make a contribution to any section of the repo, if you don't have an exact idea of what you can do, you can start by doing one of tasks below.
 3. Commit your changes and leave a short message describing what your changes are about.
@@ -68,7 +68,7 @@ To claim the aforementioned prizes, the winners must visit us at our local in US
 5. Voilà! You have just created a Pull Request, your PR will be reviewed and merged to the original repo.
 6. Share your changes with your friends and have fun!
 
-## Getting Started: Advanced
+## Getting Started Advanced
 1. Install [git](https://git-scm.com).
 2. Fork this repo.
 3. Clone your fork, this will create a directory holding the name of the repo.
