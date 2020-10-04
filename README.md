@@ -2,7 +2,7 @@
 
 ![Event logo](https://www.pixenli.com/image/sbWyjrII)
 
-![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2019/openmindsclub/H4ckT0b3rF3st-2k20?color=FF1493&label=Openfest%202020)
+![GitHub Hacktoberfest combined status](https://img.shields.io/github/hacktoberfest/2020/openmindsclub/H4ckT0b3rF3st-2k20?color=FF1493&label=Openfest%202020)
 
 ## Table of Content:
 * [What Is Hacktoberfest?](#What-Is-Hacktoberfest)
@@ -17,10 +17,9 @@
 [![GitHub pull-requests closed](https://img.shields.io/github/issues-pr-closed/openmindsclub/H4ckT0b3rF3st-2k20)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 [![GitHub pull-requests](https://img.shields.io/github/issues-pr/openmindsclub/H4ckT0b3rF3st-2k20)](https://GitHub.com/Naereen/StrapDown.js/pull/)
 
-[![GitHub watchers](https://img.shields.io/github/watchers/openmindsclub/H4ckT0b3rF3st-2k20?style=social&label=Watch&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/watchers/)
-[![GitHub stars](https://img.shields.io/github/stars/openmindsclub/H4ckT0b3rF3st-2k20?style=social&label=Star&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/stargazers/)
-[![GitHub forks](https://img.shields.io/github/forks/openmindsclub/H4ckT0b3rF3st-2k20?style=social&label=Fork&maxAge=2592000)](https://GitHub.com/Naereen/StrapDown.js/network/)
-
+[![GitHub watchers](https://img.shields.io/github/watchers/openmindsclub/H4ckT0b3rF3st-2k20?style=social)](https://github.com/openmindsclub/H4ckT0b3rF3st-2k20/network)
+[![GitHub forks](https://img.shields.io/github/forks/openmindsclub/H4ckT0b3rF3st-2k20?style=social)](https://github.com/openmindsclub/H4ckT0b3rF3st-2k20/network)
+[![GitHub stars](https://img.shields.io/github/stars/openmindsclub/H4ckT0b3rF3st-2k20?style=social)](https://github.com/openmindsclub/H4ckT0b3rF3st-2k20/network)
 
 
   Hopefully this event will be the first step in your long journey of contributing to free Open-Source projects!<br/><br/>
